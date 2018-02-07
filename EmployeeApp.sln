@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMVC", "EmployeeMVC\EmployeeMVC.csproj", "{BAAF6A5E-21EC-43B9-B69D-A93619782443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWebApi", "EmployeeWebApi\EmployeeWebApi.csproj", "{726A668E-CF2E-4206-A3F8-77EC8DB07A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAF6A5E-21EC-43B9-B69D-A93619782443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAF6A5E-21EC-43B9-B69D-A93619782443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAF6A5E-21EC-43B9-B69D-A93619782443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAF6A5E-21EC-43B9-B69D-A93619782443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726A668E-CF2E-4206-A3F8-77EC8DB07A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726A668E-CF2E-4206-A3F8-77EC8DB07A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726A668E-CF2E-4206-A3F8-77EC8DB07A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726A668E-CF2E-4206-A3F8-77EC8DB07A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
